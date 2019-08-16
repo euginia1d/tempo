@@ -1,13 +1,35 @@
+<div id="phcolor" style="background-color: #FFF500">
 body {
-  background-color: light-red;
+  background-color: light-blue;
 }
 
 h1 {
-  color: black;
-  text-align: left;
+  color: white;
+  text-align: centre;
 }
 
 p {
   font-family: comic-sans;
-  font-size: 50px;
+  font-size: 20px;
 }
+<style>
+body {    	
+background-color:#FFFEFD;
+	background-image: url(chemistry.jpg);
+            	background-repeat: no-repeat;
+            	background-position:center;
+            	background-attachment:fixed;
+            	background-size: auto;
+	background-size:1290px 768px;
+}
+</style>
+</head>
+
+<body>
+<head>
+<title>
+Science Project
+</title>
+<link rel="stylesheet" href="theme4.css">
+</head>
+
